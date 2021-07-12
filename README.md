@@ -1,2 +1,2 @@
 # tabex-ozmo-ujk
-Change branch to see all code
+Change the branch to see the code
